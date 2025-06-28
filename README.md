@@ -10,12 +10,23 @@ UserFetchify is a simple JavaScript project that fetches user data from the JSON
 - Clean and responsive user interface
 
 ## How to Use
-
+ 
+ ### Option 2 
+ 
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
 3. Enter the number of users you want to load in the input box.
 4. Click the **Click-Me** button to fetch and display the users.
 5. Click the **Get** button next to a user to view their detailed information.
+
+## How to Use
+
+### Option 2: Clone the repository
+
+```bash
+git clone https://github.com/HasibCoderLab/UserFetchify.git
+
+
 
 ## Demo
 
