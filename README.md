@@ -12,7 +12,7 @@ UserFetchify is a simple JavaScript project that fetches user data from the JSON
 ## How to Use
  
  ### Option 2 
- 
+
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
 3. Enter the number of users you want to load in the input box.
@@ -25,7 +25,7 @@ UserFetchify is a simple JavaScript project that fetches user data from the JSON
 
 ```bash
 git clone https://github.com/HasibCoderLab/UserFetchify.git
-
+```
 
 
 ## Demo
