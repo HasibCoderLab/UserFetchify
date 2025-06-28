@@ -47,14 +47,14 @@ git clone https://github.com/HasibCoderLab/UserFetchify.git
 - JavaScript (Fetch API)
 
 ## Folder Structure
-
+````
 UserFetchify/
 │
 ├── index.html
 ├── style.css
 ├── API.js
 └── README.md
-
+````
 
 ## License
 
