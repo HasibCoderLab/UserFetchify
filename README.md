@@ -11,7 +11,7 @@ UserFetchify is a simple JavaScript project that fetches user data from the JSON
 
 ## Demo
 
-![UserFetchify Screenshot](screenshot.png)
+![UserFetchify Screenshot](Images/Screenshot.png)
 
 ## Getting Started
 
